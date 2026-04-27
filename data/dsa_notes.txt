@@ -1,0 +1,31 @@
+# Data Structures and Algorithms (DSA)
+
+## Arrays
+An array is a linear data structure consisting of a collection of elements, each identified by at least one array index or key.
+Time Complexity:
+- Access: O(1)
+- Search: O(n)
+- Insertion/Deletion: O(n)
+
+## Linked Lists
+A linked list is a linear collection of data elements whose order is not given by their physical placement in memory. Instead, each element points to the next.
+Types: Singly, Doubly, Circular.
+
+## Stack
+LIFO (Last In First Out) structure. Operations: push, pop, peek.
+Uses: Function calls, Undo mechanism.
+
+## Queue
+FIFO (First In First Out) structure. Operations: enqueue, dequeue.
+
+## Trees
+Non-linear structure. Binary Tree, BST, AVL, B-Trees.
+BST Property: Left < Root < Right.
+
+## Graphs
+Collection of vertices and edges.
+Algorithms: BFS, DFS, Dijkstra, Bellman-Ford, Kruskal's, Prim's.
+
+## Hashing
+Using hash functions to map data of arbitrary size to fixed-size values.
+Collision handling: Chaining, Open Addressing.

@@ -1,0 +1,6 @@
+{
+  "name": "Placement Prep AI Portal",
+  "description": "An AI-powered preparation suite for technical placements featuring RAG-based doubt solving, interview question generation, and structured study materials.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}

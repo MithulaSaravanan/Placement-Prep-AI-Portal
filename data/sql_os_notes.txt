@@ -1,0 +1,34 @@
+# SQL and Databases
+
+## Basic Commands
+- SELECT: Extracts data from a database.
+- UPDATE: Updates data in a database.
+- DELETE: Deletes data from a database.
+- INSERT INTO: Inserts new data into a database.
+
+## JOINS
+- INNER JOIN: Returns records that have matching values in both tables.
+- LEFT JOIN: Returns all records from the left table, and matched records from the right table.
+- RIGHT JOIN: Returns all records from the right table, and matched records from the left table.
+- FULL JOIN: Returns all records when there is a match in either left or right table.
+
+## Normalization
+Process of organizing data to reduce redundancy:
+- 1NF: Atomic values, no repeating groups.
+- 2NF: 1NF + no partial dependency.
+- 3NF: 2NF + no transitive dependency.
+
+## Operating Systems
+
+## Process vs Thread
+A process is a program in execution. A thread is a segment of a process. Threads of same process share memory.
+
+## CPU Scheduling
+Algorithms: FCFS, SJF, Round Robin, Priority Scheduling.
+
+## Deadlock
+Condition where processes are waiting for resources held by each other.
+Conditions: Mutual Exclusion, Hold and Wait, No Preemption, Circular Wait.
+
+## Memory Management
+Paging, Segmentation, Virtual Memory, Thrashing.
